@@ -1,0 +1,16 @@
+Exploit made by TheTingGoesSkrrrPapa!
+
+If you have any issues by getting kicked out of 
+the game (which I will sort that out in the future),
+you will have to delete roblox and redownload it!
+
+I have put a RobloxPlayerLauncher in the folder so 
+you don't have to go through roblox to download.
+
+Virus Total link here for RobloxPlayerLauncher:
+https://www.virustotal.com/#/file/ffeeba0ecbe5093bb52d0e037eac8e94f44a68add6c492388e6b7414f2d28588/detection
+
+To delete roblox,
+Press Windows key + r, type in the box "appdata",
+when you typed that go to Local folder, and find
+the roblox folder and delete it!
