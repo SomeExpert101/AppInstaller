@@ -1,1 +1,1 @@
-Exploit is working! Welcome to new update! Old version before has shut down!
+Taken Crypto.dll off, because im sorting the dll out and may have to redownload crypto!
