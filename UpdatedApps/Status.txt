@@ -1,1 +1,1 @@
-Exploit is working, will blacklist "CryptoFree" soon for a new exe auto update
+Exploit is working! New feature - Added auto updater for ui.
